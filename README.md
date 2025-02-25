@@ -1,7 +1,7 @@
 # PRODIGY_CS_03
-# 🔐 Password Strength Checker
+# 🔐 Password Complexity Checker
 
-This is a simple **Password Strength Checker** tool written in Python. It helps users create strong and secure passwords by evaluating their passwords based on multiple security factors.
+This is a simple **Password Complexity Checker** tool written in Python. It helps users create strong and secure passwords by evaluating their passwords based on multiple security factors.
 
 ## 🚀 Features
 - Checks **password length** (minimum 12 characters)
@@ -19,15 +19,15 @@ This is a simple **Password Strength Checker** tool written in Python. It helps 
 
 ## 🛠 Installation
 1. Clone this repository:
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/your-username/password-complexity-checker.git
 2. Navigate to the directory:
-   cd password-strength-checker
+   cd password-complexity-checker
 3. Run the script:
-   python password_checker.py
+   python password_complexity_checker.py
 
 ## Example Usage
 
-🔐 Password Strength Checker 🔐
+🔐 Password Complexity Checker 🔐
 
 Enter your password: pass123
 
